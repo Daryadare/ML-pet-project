@@ -1,5 +1,5 @@
 # ML-pet-project
-Please note that the link to the notebooks 'workfield.ipynb' and 'documentation-flow.ipynb' is shown here due to their big size and inability to be displayed within GitHub: [http://bit.do/collab-workfield](https://clck.ru/33gDrn)
+Please note that for your conviniece the link from the 'link-to-GoggleDrive.pdf' that leads notebooks 'workfield.ipynb' and 'documentation-flow.ipynb' is also shown here due to the big sizes of the files and inability to be displayed within GitHub: [http://bit.do/collab-workfield](https://clck.ru/33gDrn)
  
 
   Project based on the text spreadsheet. Spreadsheet's statistical and descriprional data was analysed in various ways. After that text was preprocessed an vectorized.
