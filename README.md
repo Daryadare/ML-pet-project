@@ -1,4 +1,6 @@
-️ **Please note** that the notebooks **workfield.ipynb** and **documentation-flow.ipynb** are uploaded to this repo but due to their big size they're unable to be displayed within GitHub!
+## ML-pet-project
+
+️**Please note** that the notebooks **workfield.ipynb** and **documentation-flow.ipynb** are uploaded to this repo but due to their big size they're unable to be displayed within GitHub!
 
 So there is a [pdf file](https://github.com/Daryadare/ML-pet-project/blob/main/link-to-GoogleDrive.pdf) that contains link to the Google Drive where you can save or open them via Google Colab. 
 
